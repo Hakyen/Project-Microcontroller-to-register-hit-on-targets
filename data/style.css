@@ -1,0 +1,63 @@
+<style>
+body
+{
+	max-width: 960px;
+	margin: 0 auto;
+	font-size: 25px;
+}
+h1
+{
+	font-size: 30px;
+}
+div
+{
+	border: 1px solid black;
+	padding: 10px 10px;
+	margin: 5px;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+.header
+{
+	min-width: 50px;
+	margin-top: 20px;
+	margin-bottom: 10px;
+	text-align: center;
+	border-radius: 10px 10px 10px 10px;
+}
+.main
+{
+	min-width: 50px;
+	margin-bottom: 10px;
+	position: relative;
+	text-align: center;
+	border-radius: 10px 10px 10px 10px;
+}
+.foter
+{
+	position: relative;
+	margin-top: 30px;
+	margin-bottom: 0px;
+	text-align: center;
+	border-radius: 10px 10px 0px 0px;
+}
+table, th, td
+{
+	text-align: center;
+	vertical-align: center;
+	border-spacing: 20px 1px;
+}
+input
+{
+	font-size: 20px;
+	padding: 5pt 5pt;
+	border: 1pt solid black;
+	border-radius: 10pt;
+	outline: none;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+.input_number
+{
+	width: 40px;
+	text-align: center;
+}
+</style>
